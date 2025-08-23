@@ -3,3 +3,5 @@ out/
 build*
 HowTo.md
 *.vsix
+
+*/settings.local.json
